@@ -1,0 +1,1 @@
+print(dict(name = 'leslie', age = 19))
